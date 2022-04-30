@@ -1,0 +1,2 @@
+Projeto aprendido no CURSO EM VÍDEO, do professor Guanabara.
+Neste exercício, pudemos dá os primeiros passos utilizando Javascript, um relógio de imagens, onde mostrar a imgagem de acordo com o horário, se é manhã, aparecerá uma imagem que represente uma manhã, e assim funciona os demais horários.
